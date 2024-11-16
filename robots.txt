@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mrliu714.github.io/714-home.io/sitemap.xml
